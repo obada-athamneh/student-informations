@@ -1,0 +1,45 @@
+main {
+    background-image: url("thth.jfif");
+    width: 100%;
+    
+}
+#form{
+    color:lavender;
+    border: 2px solid red;
+  border-radius: 4px;
+  width: 50%;
+  
+}
+input{
+    display: block; width:30%;
+}
+#container table{
+    border: 1px;
+    border:solid;
+    border-color: rgba(96, 96, 96,0.6) ;
+    position: relative;
+    left: 55%;
+    bottom: 230px;
+
+}
+tr{
+    font-family: 'Reggae One', Verdana, Geneva, Tahoma, sans-serif;
+}
+td , th {
+    border: 1px;
+    border: solid;
+    border-color: blue;
+}
+select{
+    font-size: large;
+}
+button{
+    font-size: large;
+    width: 30%;
+    position: relative;
+    top: 10px;
+}
+header h3{
+    display: inline-block;
+    margin-left: 250px;
+}
